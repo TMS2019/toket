@@ -7,11 +7,6 @@ namespace Simona.Models
 {
     public class MCustomer
     {
-        public SchoolContext(DbContextOptions<SchoolContext> options) : base(options)
-        {
-        }
-
-
-
+        //test
     }
 }
